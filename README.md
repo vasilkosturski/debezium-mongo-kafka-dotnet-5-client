@@ -1,6 +1,6 @@
 # MongoDB Change Event Stream via Debezium Kafka Connector with a .NET 5 Client
 
-Read [the related article](https://vkontech.com/tensorflow-serving-grpc-endpoint-in-docker-with-a-net-5-client/) for a detailed overview.
+Read [the related article](https://vkontech.com/mongodb-change-data-capture-via-debezium-kafka-connector-with-a-net-5-client/) for a detailed overview.
 
 ## Required Software ##
 - Docker
